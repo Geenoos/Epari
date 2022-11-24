@@ -1,0 +1,19 @@
+# [#S07P22A201-?][FE/BE] Type : Title 
+#
+# [#S07P22A201-?][FE/BE] Feat : Title
+# [#S07P22A201-?][FE/BE] Fix : Title
+# [#S07P22A201-?][FE/BE] Refactor : Title
+# [#S07P22A201-?][FE/BE] Docs : Title
+# [#S07P22A201-?][FE/BE] Test : Title
+# [#S07P22A201-?][FE/BE] Chore : Title
+#
+# Additional Type List : [ Design, Hotfix, Style, Comment, Rename, Remove ]
+# —————————
+#     제목 끝에 마침표(.) 금지
+#     제목과 본문을 한 줄 띄워 분리하기
+#     본문은 “어떻게” 보다 “무엇을“, “왜”를 설명한다.
+# —————————
+######## 제목은 한 줄에 최대 50 글자까지만 입력 ############ -> |
+
+
+######## 본문은 한 줄에 최대 72 글자까지만 입력 ################################## -> |

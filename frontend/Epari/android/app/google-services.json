@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126188289267",
+    "project_id": "epari-93d9d",
+    "storage_bucket": "epari-93d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126188289267:android:ab45a69249f21da17f0b86",
+        "android_client_info": {
+          "package_name": "com.epari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126188289267-92c7f5pcvee29a4gr5kaugu3ae71sm6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epari",
+            "certificate_hash": "95b5d40c57e1590cef8c44dfa8087b8e30a328da"
+          }
+        },
+        {
+          "client_id": "126188289267-ifdj3vf1p25u011pgacmb5o62n0gnlrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epari",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "126188289267-4ii18qf3etih6ht49beh3ijfopfq6i6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRs_FuhC-EhHzPdyxYOUdEVX9rbrclJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126188289267-4ii18qf3etih6ht49beh3ijfopfq6i6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
